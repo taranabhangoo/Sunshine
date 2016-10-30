@@ -1,0 +1,2 @@
+It is a weather app.
+It takes a location and checks the weather forecast from the open source "Open Weather Map apis".
